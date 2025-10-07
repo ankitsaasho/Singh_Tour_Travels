@@ -13,7 +13,7 @@ const AboutUs = () => {
             <section className='pt-20 pb-10'>
                 <div className='container'>
                     <div className='flex gap-20'>
-                        <div className='w-1/2 flex flex-col gap-2'>
+                        <div className='w-1/2 flex flex-col gap-2 justify-start'>
 
                             <p>At Singh Tour & Travel, we believe that every journey is an opportunity for adventure, discovery, and creating lifelong memories. Whether you're seeking a relaxing beach getaway, an adrenaline-pumping adventure, or a cultural exploration, we are here to make your travel dreams a reality.</p>
                             <p>
