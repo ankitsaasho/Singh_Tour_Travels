@@ -1,12 +1,12 @@
 import InnerBanner from '@/components/InnerBanner'
 import React from 'react'
 
-const Package = () => {
+const ServicePage = () => {
   return (
     <>
-        <InnerBanner Title={'Tour Packages'} />
+        <InnerBanner Title={'Our Services'} />
     </>
   )
 }
 
-export default Package
+export default ServicePage
