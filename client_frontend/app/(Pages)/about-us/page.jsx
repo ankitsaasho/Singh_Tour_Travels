@@ -1,5 +1,4 @@
 import InnerBanner from '@/components/InnerBanner'
-import PageHeader from '@/components/PageHeader'
 import { Button } from '@/components/ui/button'
 import Image from 'next/image'
 import Link from 'next/link'
@@ -25,7 +24,7 @@ const AboutUs = () => {
                             </p>
                             <p>At Singh Tour & Travel, we believe in building lasting relationships with our clients. We take the time to understand your travel preferences, ensuring that each trip we plan for you exceeds your expectations. Our personalized approach sets us apart, and we are dedicated to providing exceptional customer service before, during, and after your journey.
                                 We are passionate about travel and are continuously exploring new destinations and experiences to offer our clients. Whether you're looking to immerse yourself in the rich history of Europe, embark on an unforgettable safari in Africa, relax on the pristine beaches of the Caribbean, or indulge in the vibrant cultures of Asia, we have the expertise to make it happen.</p>
-
+                        <Button>Contact Us</Button>
                             
                         </div>
                         {/* about image */}
